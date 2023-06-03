@@ -10,4 +10,5 @@ Esse projeto foi desenvolvido durante um mini-curso online com as seguintes tecn
 
 - HTML
 - CSS
+- JAVASCRIPT
 - GIT e GITHUB
